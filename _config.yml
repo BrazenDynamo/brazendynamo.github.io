@@ -1,2 +1,3 @@
 name: borb
 markdown: kramdown
+theme: jekyll-theme-minimal
